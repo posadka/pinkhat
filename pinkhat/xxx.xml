@@ -585,7 +585,6 @@ def GetLSProData(page_data,Cookie_Jar,m,url = ''):
         link = r0[select]
     else:
         link = r0[0]
-
     return link
 ]]></expres>
 <page></page>
